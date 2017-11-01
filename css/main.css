@@ -77,11 +77,16 @@
         color: hsl(0, 0%, 46%);
         text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
         font-family: serif;
+      }
+
+      #about h2 {
         font-weight: 700;
+        padding-bottom: 1em;
       }
       
       .about-text {
         font-size: 2.5vw;
+        font-weight: 400;
       }
       
       .contact-me {
@@ -93,6 +98,11 @@
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
         padding-top: 100px;
         padding-bottom: 100px;
+      }
+
+      .contact-me i {
+        padding: 2em 1em;
+        font-size: 2em;
       }
 
       .contactForm {
