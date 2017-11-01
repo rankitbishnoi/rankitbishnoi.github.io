@@ -12,8 +12,7 @@
         padding: 200px 0;
         text-align: center;
         color: white;
-        background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
-        filter: grayscale(100%);
+        background: url("../img/intro-bg.jpg") no-repeat scroll;
         background-color: black;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -82,7 +81,7 @@
       }
       
       .about-text {
-        font-size: 2vh;
+        font-size: 2.5vw;
       }
       
       .contact-me {
