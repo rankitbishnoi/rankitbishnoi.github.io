@@ -71,8 +71,8 @@
 
       #about {
         height: auto;
-        padding-top: 160px;
-        padding-bottom: 160px;
+        padding-top: 2em;
+        padding-bottom: 2em;
         background: url(../img/about-bg.jpg) no-repeat bottom center scroll;
         color: hsl(0, 0%, 46%);
         text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
